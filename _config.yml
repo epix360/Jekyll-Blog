@@ -11,8 +11,8 @@ email: porter.eric.e@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I'm an aspiring web developer from Idaho. I'm excited to increase my knowledge and skills to become fully integrated into
   the development profession. I also enjoy hard rock music and photography.
-production_url : http://epix360.github.io/Jekyll-Blog
-BASE_PATH : http://epix360.github.io/Jekyll-Blog 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: epix360
 github_username:  epix360
 
